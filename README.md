@@ -2,11 +2,11 @@
 
   <!-- Typing Header SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Ciao+mondo%2C+sono+Luigi+De+Falchi+%F0%9F%91%8B;Laureando+in+Informatica+%40+UniNa;Back-End+Developer+%26+Cloud+Enthusiast;Building+scalable+APIs+%26+smart+services" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Luigi+De+Falchi+%F0%9F%91%8B;CS+Undergraduate+%40+UniNa;Back-End+Developer+%26+Cloud+Enthusiast;Building+scalable+APIs+%26+smart+services" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Passione per l'architettura software, API robuste, automazione e integrazione di intelligenza artificiale.</strong>
+    <strong>Passionate about software architecture, robust APIs, automation, and AI integration.</strong>
   </p>
 
   <p align="center">
@@ -20,18 +20,18 @@
 
 ---
 
-### 👨‍💻 Chi sono
+### 👨‍💻 About Me
 
-- 🎓 **Studi:** Laureando in Informatica presso l'**Università degli Studi di Napoli Federico II**.
-- ⚙️ **Focus Principale:** Sviluppo Back-End, progettazione di **API RESTful**, gestione dei dati e pratiche **DevOps**.
-- 🤖 **Interessi emergenti:** Integrazione di modelli generativi (**LLM**) e flussi agentici all'interno di applicazioni software.
-- 🎯 **Obiettivo:** Costruire sistemi distribuiti affidabili, scalabili e facili da manutenere.
+- 🎓 **Education:** Computer Science undergraduate at the **University of Naples Federico II**.
+- ⚙️ **Core Focus:** Back-End Development, **RESTful API** design, data persistence, and **DevOps** practices.
+- 🤖 **Emerging Interests:** Large Language Model (**LLM**) integration and agentic workflows in production software.
+- 🎯 **Mission:** Engineering reliable, scalable, and maintainable distributed architectures.
 
 ---
 
-### 🛠️ Tech Stack & Competenze
+### 🛠️ Tech Stack & Tools
 
-#### 💻 Linguaggi di Programmazione & Scripting
+#### 💻 Programming & Scripting Languages
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-#### 🌐 Back-End, Framework & Database
+#### 🌐 Back-End, Frameworks & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### 🚀 DevOps, Cloud & Strumenti di Lavoro
+#### 🚀 DevOps, Cloud & Development Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -70,7 +70,7 @@
 
 <table>
   <tr>
-    <!-- PROGETTO 1: TECHWEB -->
+    <!-- PROJECT 1: TECHWEB -->
     <td width="50%" valign="top">
       <h3 align="left">
         🌐 <a href="https://github.com/LuigiDF00/Progetto_Tech_Web">Progetto Tech Web</a>
@@ -78,13 +78,13 @@
       <p><strong>Full-Stack Web Architecture, RESTful API & Persistent Storage</strong></p>
       <ul>
         <li>
-          <strong>Back-End Architecture:</strong> Servizi RESTful modulari sviluppati in ambiente <strong>Node.js / Express</strong>, con routing scalabile, separazione a strati e validazione dei payload.
+          <strong>Back-End Architecture:</strong> Modular RESTful services built in <strong>Node.js / Express</strong>, featuring clean layered separation, scalable routing, and strict input validation.
         </li>
         <li>
-          <strong>Database & ORM:</strong> Modellazione dati e persistenza gestita con <strong>Sequelize ORM</strong> e database relazionale, con transazioni atomiche e integrità referenziale.
+          <strong>Database & ORM:</strong> Relational data modeling and persistence managed through <strong>Sequelize ORM</strong>, supporting ACID transactions and referential integrity.
         </li>
         <li>
-          <strong>Security & Client Integration:</strong> Gestione sicura delle sessioni utente, sanitizzazione degli input e interfaccia web dinamica per l'interazione client-server.
+          <strong>Security & Client Integration:</strong> Secure user session handling, input sanitization, and a dynamic web interface for seamless client-server interaction.
         </li>
       </ul>
       <p align="left">
@@ -93,7 +93,7 @@
         <img src="https://img.shields.io/badge/Sequelize-ORM-52B0E7?style=flat-square&logo=sequelize&logoColor=white" alt="Sequelize" />
       </p>
     </td>
-    <!-- PROGETTO 2: BUGBOARD -->
+    <!-- PROJECT 2: BUGBOARD -->
     <td width="50%" valign="top">
       <h3 align="left">
         🐛 <a href="https://github.com/blu3ter/BugBoard26-backend-SL">BugBoard26 (Backend)</a>
@@ -101,13 +101,13 @@
       <p><strong>Issue Tracking Platform, Service Layer & API Engineering</strong></p>
       <ul>
         <li>
-          <strong>Service-Oriented Design:</strong> Architettura enterprise strutturata su Service Layer per il tracciamento anomalie, gestione stati dei ticket e separazione netta della business logic.
+          <strong>Service-Oriented Design:</strong> Enterprise service-layer architecture for defect tracking, ticket lifecycle management, and clear isolation of business logic.
         </li>
         <li>
-          <strong>Collaborative Engineering:</strong> Sviluppo in team con convenzioni Git rigorose, workflow basati su pull request, revisione del codice e standard architetturali condivisi.
+          <strong>Collaborative Engineering:</strong> Team-based development leveraging strict Git branching conventions, pull request reviews, and shared architectural guidelines.
         </li>
         <li>
-          <strong>API Contracts & Data Flow:</strong> Endpoints RESTful ad alta coerenza con gestione centralizzata delle eccezioni e pipeline di validazione runtime.
+          <strong>API Contracts & Data Flow:</strong> High-cohesion RESTful endpoints featuring centralized exception handling and runtime schema validation pipelines.
         </li>
       </ul>
       <p align="left">
@@ -118,7 +118,7 @@
     </td>
   </tr>
   <tr>
-    <!-- PROGETTO 3: LSO BATTAGLIA NAVALE -->
+    <!-- PROJECT 3: LSO BATTAGLIA NAVALE -->
     <td width="50%" valign="top">
       <h3 align="left">
         🚢 <a href="https://github.com/LuigiDF00/LSO_Battaglia_Navale">LSO Battaglia Navale</a>
@@ -126,13 +126,13 @@
       <p><strong>Operating Systems & Low-Level Process Concurrency (IPC)</strong></p>
       <ul>
         <li>
-          <strong>IPC & Sincronizzazione:</strong> Gestione della concorrenza multiprocesso in ambiente Unix/Linux tramite primitive POSIX (pipe, semafori o shared memory).
+          <strong>IPC & Synchronization:</strong> Unix/Linux multi-process concurrency orchestration via POSIX primitives (pipes, semaphores, or shared memory).
         </li>
         <li>
-          <strong>State Machine & Game Loop:</strong> Motore di gioco concorrente con gestione deterministica di turni, segnali di terminazione e prevenzione di race condition o deadlock.
+          <strong>State Machine & Game Loop:</strong> Concurrent game engine with deterministic turn handling, termination signal management, and race-condition/deadlock prevention.
         </li>
         <li>
-          <strong>Robustness:</strong> Gestione rigorosa dei file descriptor, cleanup delle risorse di sistema allocate e gestione dei segnali (signal handling).
+          <strong>Systems Robustness:</strong> Strict file descriptor management, graceful system resource cleanup, and robust signal handling.
         </li>
       </ul>
       <p align="left">
@@ -141,7 +141,7 @@
         <img src="https://img.shields.io/badge/Low--Level-C%20%2F%20Unix-blue?style=flat-square" alt="C/Unix" />
       </p>
     </td>
-    <!-- CARD 4: OVERVIEW ACCADEMICA & CONTINUOUS LEARNING -->
+    <!-- CARD 4: ACADEMIC LABS & CONTINUOUS LEARNING -->
     <td width="50%" valign="top">
       <h3 align="left">
         🎓 <a href="https://github.com/LuigiDF00?tab=repositories">UniNa Academic & Labs</a>
@@ -149,13 +149,13 @@
       <p><strong>Core Computer Science, Systems & Cloud Automation</strong></p>
       <ul>
         <li>
-          <strong>Algoritmi & Fondamenti:</strong> Approfondimento di strutture dati complesse (alberi, grafi, hash table) con analisi formale della complessità asintotica temporale e spaziale.
+          <strong>Algorithms & Fundamentals:</strong> In-depth study of complex data structures (trees, graphs, hash tables) with formal asymptotic time and space complexity analysis.
         </li>
         <li>
-          <strong>DevOps & Tooling:</strong> Scripting Bash per workflow automatizzati, containerizzazione con <strong>Docker</strong> e familiarità con ambienti cloud e pipeline CI/CD.
+          <strong>DevOps & Tooling:</strong> Bash scripting for workflow automation, containerization with <strong>Docker</strong>, and hands-on exposure to CI/CD pipelines.
         </li>
         <li>
-          <strong>AI & LLM Exploration:</strong> Studio e sperimentazione di integrazioni software con modelli linguistici avanzati e flussi agentici.
+          <strong>AI & LLM Exploration:</strong> Active research and prototyping around LLM-driven software integrations and agentic architectures.
         </li>
       </ul>
       <p align="left">
@@ -169,18 +169,18 @@
 
 ---
 
-### 📬 Mettiamoci in contatto
+### 📬 Get in Touch
 
 <div align="center">
 
-  Hai un'idea di progetto, una proposta di collaborazione o vuoi semplicemente scambiare due chiacchiere su backend e tecnologia?
+  Have an interesting project, a collaboration opportunity, or just want to talk tech and backend engineering? Feel free to reach out!
 
   <br/><br/>
 
   <a href="mailto:defalchiluigi09@gmail.com">
-    <img src="https://img.shields.io/badge/Contattami_via_Email-defalchiluigi09@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Drop_Me_An_Email-defalchiluigi09%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <br/><br/>
-  <sub>Design & README curato con cura per GitHub • Luigi De Falchi</sub>
+  <sub>Engineered & crafted with care for GitHub • Luigi De Falchi</sub>
 </div>
