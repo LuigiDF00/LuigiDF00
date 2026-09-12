@@ -70,108 +70,109 @@
 
 ### 🚀 Highlighted Engineering Case Studies
 
+### 🚀 Highlighted Engineering Case Studies
+
 <table>
   <tr>
     <!-- PROGETTO 1: TECHWEB -->
     <td width="50%" valign="top">
       <h3 align="left">
-        🌐 <a href="https://github.com/LuigiDF00/techweb">TechWeb (Full-Stack System)</a>
+        🌐 <a href="https://github.com/LuigiDF00/Progetto_Tech_Web">Progetto Tech Web</a>
       </h3>
-      <p><strong>RESTful Architecture, State Management & Persistent Storage</strong></p>
+      <p><strong>Full-Stack Web Architecture, RESTful API & Persistent Storage</strong></p>
       <ul>
         <li>
-          <strong>Back-End Architecture:</strong> Sviluppo in <strong>Node.js / Express</strong> con struttura a strati modulare, routing RESTful e validazione rigorosa dei dati in ingresso.
+          <strong>Back-End Architecture:</strong> Servizi RESTful modulari sviluppati in ambiente <strong>Node.js / Express</strong>, con routing scalabile, separazione a strati e validazione dei payload.
         </li>
         <li>
-          <strong>Persistence & ORM:</strong> Integrazione di database relazionale (<strong>PostgreSQL / MySQL</strong>) gestito tramite <strong>Sequelize ORM</strong>, con migrazioni, gestione di transazioni atomiche e relazioni complesse tra entità.
+          <strong>Database & ORM:</strong> Modellazione dati e persistenza gestita con <strong>Sequelize ORM</strong> e database relazionale, con transazioni atomiche e integrità referenziale.
         </li>
         <li>
-          <strong>Security & Client Integration:</strong> Autenticazione con sessioni/JWT, protezione contro le vulnerabilità web comuni (CORS, injection) e interfaccia frontend reattiva.
+          <strong>Security & Client Integration:</strong> Gestione sicura delle sessioni utente, sanitizzazione degli input e interfaccia web dinamica per l'interazione client-server.
         </li>
       </ul>
       <p align="left">
         <img src="https://img.shields.io/badge/Node.js-18.x-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/Express-Backend-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/Express-Framework-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
         <img src="https://img.shields.io/badge/Sequelize-ORM-52B0E7?style=flat-square&logo=sequelize&logoColor=white" alt="Sequelize" />
       </p>
     </td>
 
-    <!-- PROGETTO 2: BATTAGLIA NAVALE -->
+    <!-- PROGETTO 2: BUGBOARD -->
     <td width="50%" valign="top">
       <h3 align="left">
-        🚢 <a href="https://github.com/LuigiDF00/battaglia-navale">Battaglia Navale</a>
+        🐛 <a href="https://github.com/blu3ter/BugBoard26-backend-SL">BugBoard26 (Backend)</a>
       </h3>
-      <p><strong>Object-Oriented Design, Concurrency & Game Logic Engine</strong></p>
+      <p><strong>Issue Tracking Platform, Service Layer & API Engineering</strong></p>
       <ul>
         <li>
-          <strong>Clean Architecture & OOP:</strong> Progettazione orientata agli oggetti con rigorosa separazione delle responsabilità (Domain Model, Controllers, Board Management).
+          <strong>Service-Oriented Design:</strong> Architettura enterprise strutturata su Service Layer per il tracciamento anomalie, gestione stati dei ticket e separazione netta della business logic.
         </li>
         <li>
-          <strong>State Machine & Game Loop:</strong> Gestione degli stati di gioco, algoritmi di posizionamento deterministico/pseudo-casuale e verifica dello stato della flotta a complessità ridotta.
+          <strong>Collaborative Engineering:</strong> Sviluppo in team con convenzioni Git rigorose, workflow basati su pull request, revisione del codice e standard architetturali condivisi.
         </li>
         <li>
-          <strong>Robustness & Exception Handling:</strong> Gestione centralizzata delle eccezioni per turni, input non validi e concorrenza negli eventi di gioco.
+          <strong>API Contracts & Data Flow:</strong> Endpoints RESTful ad alta coerenza con gestione centralizzata delle eccezioni e pipeline di validazione runtime.
         </li>
       </ul>
       <p align="left">
-        <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Architecture-Clean%20OOP-blue?style=flat-square" alt="OOP" />
-        <img src="https://img.shields.io/badge/Tests-Verified-34D399?style=flat-square" alt="Tests" />
+        <img src="https://img.shields.io/badge/TypeScript-Backend-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Architecture-Service%20Layer-orange?style=flat-square" alt="Service Layer" />
+        <img src="https://img.shields.io/badge/REST-API-009688?style=flat-square" alt="REST API" />
       </p>
     </td>
   </tr>
 
   <tr>
-    <!-- PROGETTO 3: LASD -->
+    <!-- PROGETTO 3: LSO BATTAGLIA NAVALE -->
     <td width="50%" valign="top">
       <h3 align="left">
-        🧩 <a href="https://github.com/LuigiDF00/lasd">LASD (Algorithms & Data Structures)</a>
+        🚢 <a href="https://github.com/LuigiDF00/LSO_Battaglia_Navale">LSO Battaglia Navale</a>
       </h3>
-      <p><strong>Low-Level Data Structures, Memory Safety & Time-Complexity Optimization</strong></p>
+      <p><strong>Operating Systems & Low-Level Process Concurrency (IPC)</strong></p>
       <ul>
         <li>
-          <strong>Custom Structures:</strong> Implementazione manuale di strutture dati avanzate (Alberi Binari di Ricerca, Heap, Tabelle Hash, Grafi e Liste concatenate).
+          <strong>IPC & Sincronizzazione:</strong> Gestione della concorrenza multiprocesso in ambiente Unix/Linux tramite primitive POSIX (pipe, semafori o shared memory).
         </li>
         <li>
-          <strong>Complexity Verification:</strong> Algoritmi di ordinamento, attraversamento e ricerca ottimizzati con analisi formale della complessità asintotica temporale $\mathcal{O}(n)$ e spaziale.
+          <strong>State Machine & Game Loop:</strong> Motore di gioco concorrente con gestione deterministica di turni, segnali di terminazione e prevenzione di race condition o deadlock.
         </li>
         <li>
-          <strong>Unit Testing & Edge Cases:</strong> Suite di test per verificare la correttezza algoritmica, prevenzione di memory leak e gestione dei casi limite.
+          <strong>Robustness:</strong> Gestione rigorosa dei file descriptor, cleanup delle risorse di sistema allocate e gestione dei segnali (signal handling).
         </li>
       </ul>
       <p align="left">
-        <img src="https://img.shields.io/badge/Algorithms-Optimized-success?style=flat-square" alt="Algorithms" />
-        <img src="https://img.shields.io/badge/Memory-Safe-lightgrey?style=flat-square" alt="Memory" />
-        <img src="https://img.shields.io/badge/Big--O-Analyzed-blueviolet?style=flat-square" alt="Big-O" />
+        <img src="https://img.shields.io/badge/Linux-POSIX-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Systems-IPC%20%26%20Concurrency-4EAA25?style=flat-square" alt="IPC" />
+        <img src="https://img.shields.io/badge/Low--Level-C%20%2F%20Unix-blue?style=flat-square" alt="C/Unix" />
       </p>
     </td>
 
-    <!-- CARD BONUS / ROADMAP / ALTRI STUDI -->
+    <!-- CARD 4: OVERVIEW ACCADEMICA & CONTINUOUS LEARNING -->
     <td width="50%" valign="top">
       <h3 align="left">
-        ⚡ <a href="https://github.com/LuigiDF00?tab=repositories">UniNa Academic & Personal Work</a>
+        🎓 <a href="https://github.com/LuigiDF00?tab=repositories">UniNa Academic & Labs</a>
       </h3>
-      <p><strong>Core Computer Science & Cloud Exploration</strong></p>
+      <p><strong>Core Computer Science, Systems & Cloud Automation</strong></p>
       <ul>
         <li>
-          <strong>Systems & DevOps:</strong> Scripting Bash/Linux per automazione di task, containerizzazione con <strong>Docker</strong> e flussi di continuous integration.
+          <strong>Algoritmi & Fondamenti:</strong> Approfondimento di strutture dati complesse (alberi, grafi, hash table) con analisi formale della complessità asintotica temporale e spaziale.
         </li>
         <li>
-          <strong>Modern Scripting:</strong> Approfondimenti e sperimentazioni in <strong>Python</strong> e <strong>TypeScript</strong> applicati a tooling ed elaborazione dati.
+          <strong>DevOps & Tooling:</strong> Scripting Bash per workflow automatizzati, containerizzazione con <strong>Docker</strong> e familiarità con ambienti cloud e pipeline CI/CD.
         </li>
         <li>
-          <strong>Continuous Learning:</strong> Esplorazione attiva su pattern di programmazione distribuita, API design e integrazione di modelli LLM.
+          <strong>AI & LLM Exploration:</strong> Studio e sperimentazione di integrazioni software con modelli linguistici avanzati e flussi agentici.
         </li>
       </ul>
       <p align="left">
         <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Linux-Bash-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
         <img src="https://img.shields.io/badge/UniNa-Computer%20Science-red?style=flat-square" alt="UniNa" />
+        <img src="https://img.shields.io/badge/DevOps-Pipeline-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="DevOps" />
       </p>
     </td>
   </tr>
 </table>
----
 
 ### 📊 Statistiche GitHub
 
