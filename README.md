@@ -68,12 +68,109 @@
 
 ### 📌 Progetti & Attività in Evidenza
 
-| Repository / Progetto | Descrizione | Stack Tecnologico |
-| :--- | :--- | :--- |
-| 🔗 **Back-End API Services** | Servizi RESTful modulari con autenticazione JWT, validazione dati e gestione concorrenza. | `TypeScript`, `Express`, `Sequelize`, `PostgreSQL` |
-| 🧠 **AI / LLM Integration Sandbox** | Pipeline sperimentali di integrazione tra modelli linguistici e software di utilità. | `Python`, `REST API`, `Prompt Engineering` |
-| 🧩 **Algorithms & Full-Stack Apps** | Progetti pratici ed esercizi di logica applicata, routing avanzato e interfaccia utente. | `JavaScript`, `Node.js`, `SQL`, `HTML/CSS` |
+### 🚀 Highlighted Engineering Case Studies
 
+<table>
+  <tr>
+    <!-- PROGETTO 1: TECHWEB -->
+    <td width="50%" valign="top">
+      <h3 align="left">
+        🌐 <a href="https://github.com/LuigiDF00/techweb">TechWeb (Full-Stack System)</a>
+      </h3>
+      <p><strong>RESTful Architecture, State Management & Persistent Storage</strong></p>
+      <ul>
+        <li>
+          <strong>Back-End Architecture:</strong> Sviluppo in <strong>Node.js / Express</strong> con struttura a strati modulare, routing RESTful e validazione rigorosa dei dati in ingresso.
+        </li>
+        <li>
+          <strong>Persistence & ORM:</strong> Integrazione di database relazionale (<strong>PostgreSQL / MySQL</strong>) gestito tramite <strong>Sequelize ORM</strong>, con migrazioni, gestione di transazioni atomiche e relazioni complesse tra entità.
+        </li>
+        <li>
+          <strong>Security & Client Integration:</strong> Autenticazione con sessioni/JWT, protezione contro le vulnerabilità web comuni (CORS, injection) e interfaccia frontend reattiva.
+        </li>
+      </ul>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Node.js-18.x-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
+        <img src="https://img.shields.io/badge/Express-Backend-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/Sequelize-ORM-52B0E7?style=flat-square&logo=sequelize&logoColor=white" alt="Sequelize" />
+      </p>
+    </td>
+
+    <!-- PROGETTO 2: BATTAGLIA NAVALE -->
+    <td width="50%" valign="top">
+      <h3 align="left">
+        🚢 <a href="https://github.com/LuigiDF00/battaglia-navale">Battaglia Navale</a>
+      </h3>
+      <p><strong>Object-Oriented Design, Concurrency & Game Logic Engine</strong></p>
+      <ul>
+        <li>
+          <strong>Clean Architecture & OOP:</strong> Progettazione orientata agli oggetti con rigorosa separazione delle responsabilità (Domain Model, Controllers, Board Management).
+        </li>
+        <li>
+          <strong>State Machine & Game Loop:</strong> Gestione degli stati di gioco, algoritmi di posizionamento deterministico/pseudo-casuale e verifica dello stato della flotta a complessità ridotta.
+        </li>
+        <li>
+          <strong>Robustness & Exception Handling:</strong> Gestione centralizzata delle eccezioni per turni, input non validi e concorrenza negli eventi di gioco.
+        </li>
+      </ul>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Java-17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Architecture-Clean%20OOP-blue?style=flat-square" alt="OOP" />
+        <img src="https://img.shields.io/badge/Tests-Verified-34D399?style=flat-square" alt="Tests" />
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- PROGETTO 3: LASD -->
+    <td width="50%" valign="top">
+      <h3 align="left">
+        🧩 <a href="https://github.com/LuigiDF00/lasd">LASD (Algorithms & Data Structures)</a>
+      </h3>
+      <p><strong>Low-Level Data Structures, Memory Safety & Time-Complexity Optimization</strong></p>
+      <ul>
+        <li>
+          <strong>Custom Structures:</strong> Implementazione manuale di strutture dati avanzate (Alberi Binari di Ricerca, Heap, Tabelle Hash, Grafi e Liste concatenate).
+        </li>
+        <li>
+          <strong>Complexity Verification:</strong> Algoritmi di ordinamento, attraversamento e ricerca ottimizzati con analisi formale della complessità asintotica temporale $\mathcal{O}(n)$ e spaziale.
+        </li>
+        <li>
+          <strong>Unit Testing & Edge Cases:</strong> Suite di test per verificare la correttezza algoritmica, prevenzione di memory leak e gestione dei casi limite.
+        </li>
+      </ul>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Algorithms-Optimized-success?style=flat-square" alt="Algorithms" />
+        <img src="https://img.shields.io/badge/Memory-Safe-lightgrey?style=flat-square" alt="Memory" />
+        <img src="https://img.shields.io/badge/Big--O-Analyzed-blueviolet?style=flat-square" alt="Big-O" />
+      </p>
+    </td>
+
+    <!-- CARD BONUS / ROADMAP / ALTRI STUDI -->
+    <td width="50%" valign="top">
+      <h3 align="left">
+        ⚡ <a href="https://github.com/LuigiDF00?tab=repositories">UniNa Academic & Personal Work</a>
+      </h3>
+      <p><strong>Core Computer Science & Cloud Exploration</strong></p>
+      <ul>
+        <li>
+          <strong>Systems & DevOps:</strong> Scripting Bash/Linux per automazione di task, containerizzazione con <strong>Docker</strong> e flussi di continuous integration.
+        </li>
+        <li>
+          <strong>Modern Scripting:</strong> Approfondimenti e sperimentazioni in <strong>Python</strong> e <strong>TypeScript</strong> applicati a tooling ed elaborazione dati.
+        </li>
+        <li>
+          <strong>Continuous Learning:</strong> Esplorazione attiva su pattern di programmazione distribuita, API design e integrazione di modelli LLM.
+        </li>
+      </ul>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Linux-Bash-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/UniNa-Computer%20Science-red?style=flat-square" alt="UniNa" />
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📊 Statistiche GitHub
