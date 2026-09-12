@@ -66,10 +66,6 @@
 
 ---
 
-### 📌 Progetti & Attività in Evidenza
-
-### 🚀 Highlighted Engineering Case Studies
-
 ### 🚀 Highlighted Engineering Case Studies
 
 <table>
@@ -97,7 +93,6 @@
         <img src="https://img.shields.io/badge/Sequelize-ORM-52B0E7?style=flat-square&logo=sequelize&logoColor=white" alt="Sequelize" />
       </p>
     </td>
-
     <!-- PROGETTO 2: BUGBOARD -->
     <td width="50%" valign="top">
       <h3 align="left">
@@ -122,7 +117,6 @@
       </p>
     </td>
   </tr>
-
   <tr>
     <!-- PROGETTO 3: LSO BATTAGLIA NAVALE -->
     <td width="50%" valign="top">
@@ -147,7 +141,6 @@
         <img src="https://img.shields.io/badge/Low--Level-C%20%2F%20Unix-blue?style=flat-square" alt="C/Unix" />
       </p>
     </td>
-
     <!-- CARD 4: OVERVIEW ACCADEMICA & CONTINUOUS LEARNING -->
     <td width="50%" valign="top">
       <h3 align="left">
