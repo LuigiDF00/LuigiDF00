@@ -25,7 +25,6 @@
 - 🎓 **Studi:** Laureando in Informatica presso l'**Università degli Studi di Napoli Federico II**.
 - ⚙️ **Focus Principale:** Sviluppo Back-End, progettazione di **API RESTful**, gestione dei dati e pratiche **DevOps**.
 - 🤖 **Interessi emergenti:** Integrazione di modelli generativi (**LLM**) e flussi agentici all'interno di applicazioni software.
-- 🐧 **Filosofia:** Fanatico di ambienti Linux, codice tipizzato (TypeScript/Python) e pipeline di automazione riproducibili.
 - 🎯 **Obiettivo:** Costruire sistemi distribuiti affidabili, scalabili e facili da manutenere.
 
 ---
