@@ -170,18 +170,10 @@
 ### 📊 Statistiche GitHub
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=LuigiDF00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiDF00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LuigiDF00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuigiDF00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
+  <br /><br />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuigiDF00&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
