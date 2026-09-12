@@ -167,17 +167,6 @@
   </tr>
 </table>
 
-### 📊 Statistiche GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=LuigiDF00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuigiDF00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
-  <br /><br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuigiDF00&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
 ---
 
 ### 📬 Mettiamoci in contatto
